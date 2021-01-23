@@ -1,6 +1,6 @@
 # boxshooter
 
-Foobar is a Python library for dealing with word pluralization.
+boxshooter is a First-Person Shooter (FPS) Game Development Project.
 
 ## Running
 
